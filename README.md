@@ -1,8 +1,8 @@
-# Pacman 吃豆游戏
+# Pacman パックマンゲーム
 
-- 项目演示(DEMO)地址：https://passer-by.com/pacman/
+- プロジェクトデモ（デモ）アドレス：https://passer-by.com/pacman/
 
-### 版权
+### 著作権
 本游戏由 [passer-by.com](https://passer-by.com/) 制作，请尊重作者，引用请注明来源。
 
 功能
